@@ -1,0 +1,2 @@
+# keep LF everywhere: run_block.sh must run under bash, and us2014/instances/US02_B737/witness_plan.json is covered by CHECKSUMS.json
+* text=auto eol=lf

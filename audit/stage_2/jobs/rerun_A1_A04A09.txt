@@ -1,0 +1,64 @@
+--inst A04 --policy fh --tl 3600
+--inst A09 --policy fh --tl 3600
+--inst A04 --policy occ
+--inst A04 --policy rh --step 30 --look 120 --terminal boundary --bnd kms --tl 300
+--inst A04 --policy rh --step 30 --look 120 --terminal boundary --bnd kvms --tl 300
+--inst A04 --policy rh --step 30 --look 30 --terminal boundary --bnd kms --tl 300
+--inst A04 --policy rh --step 30 --look 30 --terminal boundary --bnd kvms --tl 300
+--inst A04 --policy rh --step 30 --look 30 --commit stage --terminal none --tl 300
+--inst A04 --policy rh --step 60 --look 120 --terminal boundary --bnd kms --tl 300
+--inst A04 --policy rh --step 60 --look 120 --terminal boundary --bnd kvms --tl 300
+--inst A04 --policy rh --step 60 --look 120 --terminal none --tl 300
+--inst A04 --policy rh --step 60 --look 180 --terminal boundary --bnd c --tl 300
+--inst A04 --policy rh --step 60 --look 180 --terminal boundary --bnd ckms --tl 300
+--inst A04 --policy rh --step 60 --look 180 --terminal boundary --bnd ckvms --tl 300
+--inst A04 --policy rh --step 60 --look 180 --terminal boundary --bnd k --tl 300
+--inst A04 --policy rh --step 60 --look 180 --terminal boundary --bnd km --tl 300
+--inst A04 --policy rh --step 60 --look 180 --terminal boundary --bnd kms --tl 300
+--inst A04 --policy rh --step 60 --look 180 --terminal boundary --bnd ks --tl 300
+--inst A04 --policy rh --step 60 --look 180 --terminal boundary --bnd kv --tl 300
+--inst A04 --policy rh --step 60 --look 180 --terminal boundary --bnd kvms --tl 300
+--inst A04 --policy rh --step 60 --look 180 --terminal boundary --bnd n --tl 300
+--inst A04 --policy rh --step 60 --look 180 --terminal boundary --bnd nkms --tl 300
+--inst A04 --policy rh --step 60 --look 180 --terminal boundary --bnd nkvms --tl 300
+--inst A04 --policy rh --step 60 --look 180 --terminal none --tl 300
+--inst A04 --policy rh --step 60 --look 360 --terminal boundary --bnd kms --tl 300
+--inst A04 --policy rh --step 60 --look 360 --terminal boundary --bnd kvms --tl 300
+--inst A04 --policy rh --step 60 --look 360 --terminal none --tl 300
+--inst A04 --policy rh --step 60 --look 60 --terminal boundary --bnd c --tl 300
+--inst A04 --policy rh --step 60 --look 60 --terminal boundary --bnd ckms --tl 300
+--inst A04 --policy rh --step 60 --look 60 --terminal boundary --bnd ckvms --tl 300
+--inst A04 --policy rh --step 60 --look 60 --terminal boundary --bnd k --tl 300
+--inst A04 --policy rh --step 60 --look 60 --terminal boundary --bnd km --tl 300
+--inst A04 --policy rh --step 60 --look 60 --terminal boundary --bnd kms --tl 300
+--inst A04 --policy rh --step 60 --look 60 --terminal boundary --bnd ks --tl 300
+--inst A04 --policy rh --step 60 --look 60 --terminal boundary --bnd kv --tl 300
+--inst A04 --policy rh --step 60 --look 60 --terminal boundary --bnd kvms --tl 300
+--inst A04 --policy rh --step 60 --look 60 --terminal boundary --bnd n --tl 300
+--inst A04 --policy rh --step 60 --look 60 --terminal boundary --bnd nkms --tl 300
+--inst A04 --policy rh --step 60 --look 60 --terminal boundary --bnd nkvms --tl 300
+--inst A04 --policy rh --step 60 --look 60 --terminal none --tl 300
+--inst A04 --policy rh --step 60 --look 60 --commit stage --terminal none --tl 300
+--inst A04 --policy rh --step 60 --look day --terminal boundary --bnd kms --tl 600
+--inst A04 --policy rh --step 60 --look day --terminal boundary --bnd kvms --tl 600
+--inst A09 --policy occ
+--inst A09 --policy rh --step 30 --look 120 --terminal boundary --bnd kms --tl 300
+--inst A09 --policy rh --step 30 --look 120 --terminal boundary --bnd kvms --tl 300
+--inst A09 --policy rh --step 30 --look 30 --terminal boundary --bnd kms --tl 300
+--inst A09 --policy rh --step 30 --look 30 --terminal boundary --bnd kvms --tl 300
+--inst A09 --policy rh --step 30 --look 30 --commit stage --terminal none --tl 300
+--inst A09 --policy rh --step 60 --look 120 --terminal boundary --bnd kms --tl 300
+--inst A09 --policy rh --step 60 --look 120 --terminal boundary --bnd kvms --tl 300
+--inst A09 --policy rh --step 60 --look 120 --terminal none --tl 300
+--inst A09 --policy rh --step 60 --look 180 --terminal boundary --bnd kms --tl 300
+--inst A09 --policy rh --step 60 --look 180 --terminal boundary --bnd kvms --tl 300
+--inst A09 --policy rh --step 60 --look 180 --terminal none --tl 300
+--inst A09 --policy rh --step 60 --look 360 --terminal boundary --bnd kms --tl 300
+--inst A09 --policy rh --step 60 --look 360 --terminal boundary --bnd kvms --tl 300
+--inst A09 --policy rh --step 60 --look 360 --terminal none --tl 300
+--inst A09 --policy rh --step 60 --look 60 --terminal boundary --bnd kms --tl 300
+--inst A09 --policy rh --step 60 --look 60 --terminal boundary --bnd kvms --tl 300
+--inst A09 --policy rh --step 60 --look 60 --terminal none --tl 300
+--inst A09 --policy rh --step 60 --look 60 --commit stage --terminal none --tl 300
+--inst A09 --policy rh --step 60 --look day --terminal boundary --bnd kms --tl 600
+--inst A09 --policy rh --step 60 --look day --terminal boundary --bnd kvms --tl 600

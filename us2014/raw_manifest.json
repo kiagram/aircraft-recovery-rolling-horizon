@@ -1,0 +1,102 @@
+{
+ "356548273_T_F41SCHEDULE_B43_2014.zip": {
+  "bytes": 91170,
+  "sha256": "b2c16ab12be10295469a2aa4a630816352a13ff35d16e08e4436541a0b63c7fe",
+  "source": "https://raw.githubusercontent.com/tomersagi/us2014/4802d7fcfd6627bfea0c6caca9c80dd9623aa162/data/sources/356548273_T_F41SCHEDULE_B43_2014.zip"
+ },
+ "On_Time_Reporting_Carrier_On_Time_Performance_1987_present_2014_1.zip": {
+  "bytes": 23154887,
+  "sha256": "da503579c25a04b837d60fd168671a324a3ceaf256a3f6d6be70102d44487d52",
+  "source": "https://transtats.bts.gov/PREZIP/On_Time_Reporting_Carrier_On_Time_Performance_1987_present_2014_1.zip"
+ },
+ "On_Time_Reporting_Carrier_On_Time_Performance_1987_present_2014_10.zip": {
+  "bytes": 24053472,
+  "sha256": "b28b064520b376cce2afd7626ba3bc6c6a9b5df97d63f316c27aa01288e48e19",
+  "source": "https://transtats.bts.gov/PREZIP/On_Time_Reporting_Carrier_On_Time_Performance_1987_present_2014_10.zip"
+ },
+ "On_Time_Reporting_Carrier_On_Time_Performance_1987_present_2014_11.zip": {
+  "bytes": 22941862,
+  "sha256": "4eba9345e808e35121965282b78027315282e54056aeb7ebea673c63af8ce1eb",
+  "source": "https://transtats.bts.gov/PREZIP/On_Time_Reporting_Carrier_On_Time_Performance_1987_present_2014_11.zip"
+ },
+ "On_Time_Reporting_Carrier_On_Time_Performance_1987_present_2014_12.zip": {
+  "bytes": 24192753,
+  "sha256": "8884ae0ca2377b889b38fd065e6d70edfeda447af53085d4bc6a6bb25e4c72a8",
+  "source": "https://transtats.bts.gov/PREZIP/On_Time_Reporting_Carrier_On_Time_Performance_1987_present_2014_12.zip"
+ },
+ "On_Time_Reporting_Carrier_On_Time_Performance_1987_present_2014_2.zip": {
+  "bytes": 21227290,
+  "sha256": "60a2a4980bf005d781a833261d2dcb9c7d02db04362f74c2e087878c0c9899c7",
+  "source": "https://transtats.bts.gov/PREZIP/On_Time_Reporting_Carrier_On_Time_Performance_1987_present_2014_2.zip"
+ },
+ "On_Time_Reporting_Carrier_On_Time_Performance_1987_present_2014_3.zip": {
+  "bytes": 24777414,
+  "sha256": "54401c8a4df07b8ec0666d8452125a6b83aef09ae5a5476e560bf8f41bed9b07",
+  "source": "https://transtats.bts.gov/PREZIP/On_Time_Reporting_Carrier_On_Time_Performance_1987_present_2014_3.zip"
+ },
+ "On_Time_Reporting_Carrier_On_Time_Performance_1987_present_2014_4.zip": {
+  "bytes": 23547434,
+  "sha256": "91d774fd866dd1046c3e9c492b43fc25c9a06e50ef8f89d82eb636ebe0d6da54",
+  "source": "https://transtats.bts.gov/PREZIP/On_Time_Reporting_Carrier_On_Time_Performance_1987_present_2014_4.zip"
+ },
+ "On_Time_Reporting_Carrier_On_Time_Performance_1987_present_2014_5.zip": {
+  "bytes": 24703166,
+  "sha256": "2a3bd6494c5c86642c107c9e5b4d63760de5d5d0c90bc976e70c3e33417f4ea6",
+  "source": "https://transtats.bts.gov/PREZIP/On_Time_Reporting_Carrier_On_Time_Performance_1987_present_2014_5.zip"
+ },
+ "On_Time_Reporting_Carrier_On_Time_Performance_1987_present_2014_6.zip": {
+  "bytes": 25333082,
+  "sha256": "5ba8d981c86fbf51c9b0c81c516bf4ffbe4cefb96be218aa21b7484062fa510f",
+  "source": "https://transtats.bts.gov/PREZIP/On_Time_Reporting_Carrier_On_Time_Performance_1987_present_2014_6.zip"
+ },
+ "On_Time_Reporting_Carrier_On_Time_Performance_1987_present_2014_7.zip": {
+  "bytes": 25715449,
+  "sha256": "bde5f2c417d54102389cbc5d1bc5bb9e9e67b16cc12a70f61efff681d8e5e521",
+  "source": "https://transtats.bts.gov/PREZIP/On_Time_Reporting_Carrier_On_Time_Performance_1987_present_2014_7.zip"
+ },
+ "On_Time_Reporting_Carrier_On_Time_Performance_1987_present_2014_8.zip": {
+  "bytes": 24787310,
+  "sha256": "a68a0cd721f0e02d0a54b7c1366f4587084f114dfb005eefe76f58d8da9f46b2",
+  "source": "https://transtats.bts.gov/PREZIP/On_Time_Reporting_Carrier_On_Time_Performance_1987_present_2014_8.zip"
+ },
+ "On_Time_Reporting_Carrier_On_Time_Performance_1987_present_2014_9.zip": {
+  "bytes": 22611275,
+  "sha256": "359dfadf176aafdfb93ac030853b84a2a0ec20e58f840d79af66041acde811cb",
+  "source": "https://transtats.bts.gov/PREZIP/On_Time_Reporting_Carrier_On_Time_Performance_1987_present_2014_9.zip"
+ },
+ "Origin_and_Destination_Survey_DB1BCoupon_2014_1.zip": {
+  "bytes": 180100154,
+  "sha256": "9efd5930d24d1ad42dba059dd8f7ead627e4df67e2b0bb1e8ca871b2273bcee6",
+  "source": "https://transtats.bts.gov/PREZIP/Origin_and_Destination_Survey_DB1BCoupon_2014_1.zip"
+ },
+ "Origin_and_Destination_Survey_DB1BCoupon_2014_2.zip": {
+  "bytes": 208172913,
+  "sha256": "2a850ec4b6f764db3874de3b8babd310859c45d5f502cc2e469681e0cc4024a5",
+  "source": "https://transtats.bts.gov/PREZIP/Origin_and_Destination_Survey_DB1BCoupon_2014_2.zip"
+ },
+ "Origin_and_Destination_Survey_DB1BCoupon_2014_3.zip": {
+  "bytes": 210852174,
+  "sha256": "4d913e94e42ab67106ec566e466b4a576e811c63a6ff4385db528bc23507a3c9",
+  "source": "https://transtats.bts.gov/PREZIP/Origin_and_Destination_Survey_DB1BCoupon_2014_3.zip"
+ },
+ "Origin_and_Destination_Survey_DB1BCoupon_2014_4.zip": {
+  "bytes": 203433712,
+  "sha256": "40a2e2982b4a8247768ebb2eacfd6cfe354ff36d9ebf914e160a70445eb0c458",
+  "source": "https://transtats.bts.gov/PREZIP/Origin_and_Destination_Survey_DB1BCoupon_2014_4.zip"
+ },
+ "T100_SEGMENT_2014.csv": {
+  "bytes": 25017712,
+  "sha256": "04667fd9e385271371ee3b9cef947ff02608c020a14c4767d5fc37b63c555d28",
+  "source": "BTS Air Carrier Statistics, T-100 Segment (All Carriers), 2014, form replay"
+ },
+ "airportCoordinates.csv": {
+  "bytes": 699669,
+  "sha256": "569b055a542fbdc2bbd4fca481b5d7e365549b185af330999816ce1b58664da1",
+  "source": "https://raw.githubusercontent.com/tomersagi/us2014/4802d7fcfd6627bfea0c6caca9c80dd9623aa162/data/sources/airportCoordinates.csv"
+ },
+ "combinedPlaneData.csv": {
+  "bytes": 92748,
+  "sha256": "8db25c04e9754fc0b4c671af177ea06baf8d22e4139453a465c6eedf39387d68",
+  "source": "https://raw.githubusercontent.com/tomersagi/us2014/4802d7fcfd6627bfea0c6caca9c80dd9623aa162/data/sources/combinedPlaneData.csv"
+ }
+}

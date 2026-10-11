@@ -1,0 +1,375 @@
+--inst A01 --scenario 1 --cap_ratio 0.3 --policy fh --tl 1800
+--inst A01 --scenario 1 --cap_ratio 0.3 --policy fhpi --tl 1800
+--inst A01 --scenario 2 --cap_ratio 0.3 --policy fh --tl 1800
+--inst A01 --scenario 2 --cap_ratio 0.3 --policy fhpi --tl 1800
+--inst A01 --scenario 3 --cap_ratio 0.3 --policy fh --tl 1800
+--inst A01 --scenario 3 --cap_ratio 0.3 --policy fhpi --tl 1800
+--inst A01 --scenario 4 --cap_ratio 0.3 --policy fh --tl 1800
+--inst A01 --scenario 4 --cap_ratio 0.3 --policy fhpi --tl 1800
+--inst A01 --scenario 5 --cap_ratio 0.3 --policy fh --tl 1800
+--inst A01 --scenario 5 --cap_ratio 0.3 --policy fhpi --tl 1800
+--inst A02 --scenario 1 --cap_ratio 0.3 --policy fh --tl 1800
+--inst A02 --scenario 1 --cap_ratio 0.3 --policy fhpi --tl 1800
+--inst A02 --scenario 2 --cap_ratio 0.3 --policy fh --tl 1800
+--inst A02 --scenario 2 --cap_ratio 0.3 --policy fhpi --tl 1800
+--inst A02 --scenario 3 --cap_ratio 0.3 --policy fh --tl 1800
+--inst A02 --scenario 3 --cap_ratio 0.3 --policy fhpi --tl 1800
+--inst A02 --scenario 4 --cap_ratio 0.3 --policy fh --tl 1800
+--inst A02 --scenario 4 --cap_ratio 0.3 --policy fhpi --tl 1800
+--inst A02 --scenario 5 --cap_ratio 0.3 --policy fh --tl 1800
+--inst A02 --scenario 5 --cap_ratio 0.3 --policy fhpi --tl 1800
+--inst A03 --scenario 1 --cap_ratio 0.3 --policy fh --tl 1800
+--inst A03 --scenario 1 --cap_ratio 0.3 --policy fhpi --tl 1800
+--inst A03 --scenario 2 --cap_ratio 0.3 --policy fh --tl 1800
+--inst A03 --scenario 2 --cap_ratio 0.3 --policy fhpi --tl 1800
+--inst A03 --scenario 3 --cap_ratio 0.3 --policy fh --tl 1800
+--inst A03 --scenario 3 --cap_ratio 0.3 --policy fhpi --tl 1800
+--inst A03 --scenario 4 --cap_ratio 0.3 --policy fh --tl 1800
+--inst A03 --scenario 4 --cap_ratio 0.3 --policy fhpi --tl 1800
+--inst A03 --scenario 5 --cap_ratio 0.3 --policy fh --tl 1800
+--inst A03 --scenario 5 --cap_ratio 0.3 --policy fhpi --tl 1800
+--inst A04 --scenario 1 --cap_ratio 0.3 --policy fh --tl 1800
+--inst A04 --scenario 1 --cap_ratio 0.3 --policy fhpi --tl 1800
+--inst A04 --scenario 2 --cap_ratio 0.3 --policy fh --tl 1800
+--inst A04 --scenario 2 --cap_ratio 0.3 --policy fhpi --tl 1800
+--inst A04 --scenario 3 --cap_ratio 0.3 --policy fh --tl 1800
+--inst A04 --scenario 3 --cap_ratio 0.3 --policy fhpi --tl 1800
+--inst A04 --scenario 4 --cap_ratio 0.3 --policy fh --tl 1800
+--inst A04 --scenario 4 --cap_ratio 0.3 --policy fhpi --tl 1800
+--inst A04 --scenario 5 --cap_ratio 0.3 --policy fh --tl 1800
+--inst A04 --scenario 5 --cap_ratio 0.3 --policy fhpi --tl 1800
+--inst A06 --scenario 1 --cap_ratio 0.3 --policy fh --tl 1800
+--inst A06 --scenario 1 --cap_ratio 0.3 --policy fhpi --tl 1800
+--inst A06 --scenario 2 --cap_ratio 0.3 --policy fh --tl 1800
+--inst A06 --scenario 2 --cap_ratio 0.3 --policy fhpi --tl 1800
+--inst A06 --scenario 3 --cap_ratio 0.3 --policy fh --tl 1800
+--inst A06 --scenario 3 --cap_ratio 0.3 --policy fhpi --tl 1800
+--inst A06 --scenario 4 --cap_ratio 0.3 --policy fh --tl 1800
+--inst A06 --scenario 4 --cap_ratio 0.3 --policy fhpi --tl 1800
+--inst A06 --scenario 5 --cap_ratio 0.3 --policy fh --tl 1800
+--inst A06 --scenario 5 --cap_ratio 0.3 --policy fhpi --tl 1800
+--inst A07 --scenario 1 --cap_ratio 0.3 --policy fh --tl 1800
+--inst A07 --scenario 1 --cap_ratio 0.3 --policy fhpi --tl 1800
+--inst A07 --scenario 2 --cap_ratio 0.3 --policy fh --tl 1800
+--inst A07 --scenario 2 --cap_ratio 0.3 --policy fhpi --tl 1800
+--inst A07 --scenario 3 --cap_ratio 0.3 --policy fh --tl 1800
+--inst A07 --scenario 3 --cap_ratio 0.3 --policy fhpi --tl 1800
+--inst A07 --scenario 4 --cap_ratio 0.3 --policy fh --tl 1800
+--inst A07 --scenario 4 --cap_ratio 0.3 --policy fhpi --tl 1800
+--inst A07 --scenario 5 --cap_ratio 0.3 --policy fh --tl 1800
+--inst A07 --scenario 5 --cap_ratio 0.3 --policy fhpi --tl 1800
+--inst A08 --scenario 1 --cap_ratio 0.3 --policy fh --tl 1800
+--inst A08 --scenario 1 --cap_ratio 0.3 --policy fhpi --tl 1800
+--inst A08 --scenario 2 --cap_ratio 0.3 --policy fh --tl 1800
+--inst A08 --scenario 2 --cap_ratio 0.3 --policy fhpi --tl 1800
+--inst A08 --scenario 3 --cap_ratio 0.3 --policy fh --tl 1800
+--inst A08 --scenario 3 --cap_ratio 0.3 --policy fhpi --tl 1800
+--inst A08 --scenario 4 --cap_ratio 0.3 --policy fh --tl 1800
+--inst A08 --scenario 4 --cap_ratio 0.3 --policy fhpi --tl 1800
+--inst A08 --scenario 5 --cap_ratio 0.3 --policy fh --tl 1800
+--inst A08 --scenario 5 --cap_ratio 0.3 --policy fhpi --tl 1800
+--inst A09 --scenario 1 --cap_ratio 0.3 --policy fh --tl 1800
+--inst A09 --scenario 1 --cap_ratio 0.3 --policy fhpi --tl 1800
+--inst A09 --scenario 2 --cap_ratio 0.3 --policy fh --tl 1800
+--inst A09 --scenario 2 --cap_ratio 0.3 --policy fhpi --tl 1800
+--inst A09 --scenario 3 --cap_ratio 0.3 --policy fh --tl 1800
+--inst A09 --scenario 3 --cap_ratio 0.3 --policy fhpi --tl 1800
+--inst A09 --scenario 4 --cap_ratio 0.3 --policy fh --tl 1800
+--inst A09 --scenario 4 --cap_ratio 0.3 --policy fhpi --tl 1800
+--inst A09 --scenario 5 --cap_ratio 0.3 --policy fh --tl 1800
+--inst A09 --scenario 5 --cap_ratio 0.3 --policy fhpi --tl 1800
+--inst A01 --scenario 1 --cap_ratio 0.3 --policy occ
+--inst A01 --scenario 1 --cap_ratio 0.3 --policy rh --step 60 --look 180 --terminal boundary --bnd kms --info progressive --tl 600
+--inst A01 --scenario 1 --cap_ratio 0.3 --policy rh --step 60 --look 180 --terminal boundary --bnd kvms --info progressive --tl 600
+--inst A01 --scenario 1 --cap_ratio 0.3 --policy rh --step 60 --look 60 --terminal boundary --bnd kms --info progressive --tl 600
+--inst A01 --scenario 1 --cap_ratio 0.3 --policy rh --step 60 --look 60 --terminal boundary --bnd kvms --info progressive --tl 600
+--inst A01 --scenario 1 --cap_ratio 0.3 --policy rh --step 60 --look 60 --terminal none --info progressive --tl 300
+--inst A01 --scenario 1 --cap_ratio 0.3 --policy rh --step 60 --look day --terminal boundary --bnd kms --info progressive --tl 600
+--inst A01 --scenario 1 --cap_ratio 0.3 --policy rh --step 60 --look day --terminal boundary --bnd kvms --info progressive --tl 600
+--inst A01 --scenario 1 --cap_ratio 0.3 --policy rh --step 60 --look inf --terminal none --info progressive --tl 900
+--inst A01 --scenario 2 --cap_ratio 0.3 --policy occ
+--inst A01 --scenario 2 --cap_ratio 0.3 --policy rh --step 60 --look 180 --terminal boundary --bnd kms --info progressive --tl 600
+--inst A01 --scenario 2 --cap_ratio 0.3 --policy rh --step 60 --look 180 --terminal boundary --bnd kvms --info progressive --tl 600
+--inst A01 --scenario 2 --cap_ratio 0.3 --policy rh --step 60 --look 60 --terminal boundary --bnd kms --info progressive --tl 600
+--inst A01 --scenario 2 --cap_ratio 0.3 --policy rh --step 60 --look 60 --terminal boundary --bnd kvms --info progressive --tl 600
+--inst A01 --scenario 2 --cap_ratio 0.3 --policy rh --step 60 --look 60 --terminal none --info progressive --tl 300
+--inst A01 --scenario 2 --cap_ratio 0.3 --policy rh --step 60 --look day --terminal boundary --bnd kms --info progressive --tl 600
+--inst A01 --scenario 2 --cap_ratio 0.3 --policy rh --step 60 --look day --terminal boundary --bnd kvms --info progressive --tl 600
+--inst A01 --scenario 2 --cap_ratio 0.3 --policy rh --step 60 --look inf --terminal none --info progressive --tl 900
+--inst A01 --scenario 3 --cap_ratio 0.3 --policy occ
+--inst A01 --scenario 3 --cap_ratio 0.3 --policy rh --step 60 --look 180 --terminal boundary --bnd kms --info progressive --tl 600
+--inst A01 --scenario 3 --cap_ratio 0.3 --policy rh --step 60 --look 180 --terminal boundary --bnd kvms --info progressive --tl 600
+--inst A01 --scenario 3 --cap_ratio 0.3 --policy rh --step 60 --look 60 --terminal boundary --bnd kms --info progressive --tl 600
+--inst A01 --scenario 3 --cap_ratio 0.3 --policy rh --step 60 --look 60 --terminal boundary --bnd kvms --info progressive --tl 600
+--inst A01 --scenario 3 --cap_ratio 0.3 --policy rh --step 60 --look 60 --terminal none --info progressive --tl 300
+--inst A01 --scenario 3 --cap_ratio 0.3 --policy rh --step 60 --look day --terminal boundary --bnd kms --info progressive --tl 600
+--inst A01 --scenario 3 --cap_ratio 0.3 --policy rh --step 60 --look day --terminal boundary --bnd kvms --info progressive --tl 600
+--inst A01 --scenario 3 --cap_ratio 0.3 --policy rh --step 60 --look inf --terminal none --info progressive --tl 900
+--inst A01 --scenario 4 --cap_ratio 0.3 --policy occ
+--inst A01 --scenario 4 --cap_ratio 0.3 --policy rh --step 60 --look 180 --terminal boundary --bnd kms --info progressive --tl 600
+--inst A01 --scenario 4 --cap_ratio 0.3 --policy rh --step 60 --look 180 --terminal boundary --bnd kvms --info progressive --tl 600
+--inst A01 --scenario 4 --cap_ratio 0.3 --policy rh --step 60 --look 60 --terminal boundary --bnd kms --info progressive --tl 600
+--inst A01 --scenario 4 --cap_ratio 0.3 --policy rh --step 60 --look 60 --terminal boundary --bnd kvms --info progressive --tl 600
+--inst A01 --scenario 4 --cap_ratio 0.3 --policy rh --step 60 --look 60 --terminal none --info progressive --tl 300
+--inst A01 --scenario 4 --cap_ratio 0.3 --policy rh --step 60 --look day --terminal boundary --bnd kms --info progressive --tl 600
+--inst A01 --scenario 4 --cap_ratio 0.3 --policy rh --step 60 --look day --terminal boundary --bnd kvms --info progressive --tl 600
+--inst A01 --scenario 4 --cap_ratio 0.3 --policy rh --step 60 --look inf --terminal none --info progressive --tl 900
+--inst A01 --scenario 5 --cap_ratio 0.3 --policy occ
+--inst A01 --scenario 5 --cap_ratio 0.3 --policy rh --step 60 --look 180 --terminal boundary --bnd kms --info progressive --tl 600
+--inst A01 --scenario 5 --cap_ratio 0.3 --policy rh --step 60 --look 180 --terminal boundary --bnd kvms --info progressive --tl 600
+--inst A01 --scenario 5 --cap_ratio 0.3 --policy rh --step 60 --look 60 --terminal boundary --bnd kms --info progressive --tl 600
+--inst A01 --scenario 5 --cap_ratio 0.3 --policy rh --step 60 --look 60 --terminal boundary --bnd kvms --info progressive --tl 600
+--inst A01 --scenario 5 --cap_ratio 0.3 --policy rh --step 60 --look 60 --terminal none --info progressive --tl 300
+--inst A01 --scenario 5 --cap_ratio 0.3 --policy rh --step 60 --look day --terminal boundary --bnd kms --info progressive --tl 600
+--inst A01 --scenario 5 --cap_ratio 0.3 --policy rh --step 60 --look day --terminal boundary --bnd kvms --info progressive --tl 600
+--inst A01 --scenario 5 --cap_ratio 0.3 --policy rh --step 60 --look inf --terminal none --info progressive --tl 900
+--inst A02 --scenario 1 --cap_ratio 0.3 --policy occ
+--inst A02 --scenario 1 --cap_ratio 0.3 --policy rh --step 60 --look 180 --terminal boundary --bnd kms --info progressive --tl 600
+--inst A02 --scenario 1 --cap_ratio 0.3 --policy rh --step 60 --look 180 --terminal boundary --bnd kvms --info progressive --tl 600
+--inst A02 --scenario 1 --cap_ratio 0.3 --policy rh --step 60 --look 60 --terminal boundary --bnd kms --info progressive --tl 600
+--inst A02 --scenario 1 --cap_ratio 0.3 --policy rh --step 60 --look 60 --terminal boundary --bnd kvms --info progressive --tl 600
+--inst A02 --scenario 1 --cap_ratio 0.3 --policy rh --step 60 --look 60 --terminal none --info progressive --tl 300
+--inst A02 --scenario 1 --cap_ratio 0.3 --policy rh --step 60 --look day --terminal boundary --bnd kms --info progressive --tl 600
+--inst A02 --scenario 1 --cap_ratio 0.3 --policy rh --step 60 --look day --terminal boundary --bnd kvms --info progressive --tl 600
+--inst A02 --scenario 1 --cap_ratio 0.3 --policy rh --step 60 --look inf --terminal none --info progressive --tl 900
+--inst A02 --scenario 2 --cap_ratio 0.3 --policy occ
+--inst A02 --scenario 2 --cap_ratio 0.3 --policy rh --step 60 --look 180 --terminal boundary --bnd kms --info progressive --tl 600
+--inst A02 --scenario 2 --cap_ratio 0.3 --policy rh --step 60 --look 180 --terminal boundary --bnd kvms --info progressive --tl 600
+--inst A02 --scenario 2 --cap_ratio 0.3 --policy rh --step 60 --look 60 --terminal boundary --bnd kms --info progressive --tl 600
+--inst A02 --scenario 2 --cap_ratio 0.3 --policy rh --step 60 --look 60 --terminal boundary --bnd kvms --info progressive --tl 600
+--inst A02 --scenario 2 --cap_ratio 0.3 --policy rh --step 60 --look 60 --terminal none --info progressive --tl 300
+--inst A02 --scenario 2 --cap_ratio 0.3 --policy rh --step 60 --look day --terminal boundary --bnd kms --info progressive --tl 600
+--inst A02 --scenario 2 --cap_ratio 0.3 --policy rh --step 60 --look day --terminal boundary --bnd kvms --info progressive --tl 600
+--inst A02 --scenario 2 --cap_ratio 0.3 --policy rh --step 60 --look inf --terminal none --info progressive --tl 900
+--inst A02 --scenario 3 --cap_ratio 0.3 --policy occ
+--inst A02 --scenario 3 --cap_ratio 0.3 --policy rh --step 60 --look 180 --terminal boundary --bnd kms --info progressive --tl 600
+--inst A02 --scenario 3 --cap_ratio 0.3 --policy rh --step 60 --look 180 --terminal boundary --bnd kvms --info progressive --tl 600
+--inst A02 --scenario 3 --cap_ratio 0.3 --policy rh --step 60 --look 60 --terminal boundary --bnd kms --info progressive --tl 600
+--inst A02 --scenario 3 --cap_ratio 0.3 --policy rh --step 60 --look 60 --terminal boundary --bnd kvms --info progressive --tl 600
+--inst A02 --scenario 3 --cap_ratio 0.3 --policy rh --step 60 --look 60 --terminal none --info progressive --tl 300
+--inst A02 --scenario 3 --cap_ratio 0.3 --policy rh --step 60 --look day --terminal boundary --bnd kms --info progressive --tl 600
+--inst A02 --scenario 3 --cap_ratio 0.3 --policy rh --step 60 --look day --terminal boundary --bnd kvms --info progressive --tl 600
+--inst A02 --scenario 3 --cap_ratio 0.3 --policy rh --step 60 --look inf --terminal none --info progressive --tl 900
+--inst A02 --scenario 4 --cap_ratio 0.3 --policy occ
+--inst A02 --scenario 4 --cap_ratio 0.3 --policy rh --step 60 --look 180 --terminal boundary --bnd kms --info progressive --tl 600
+--inst A02 --scenario 4 --cap_ratio 0.3 --policy rh --step 60 --look 180 --terminal boundary --bnd kvms --info progressive --tl 600
+--inst A02 --scenario 4 --cap_ratio 0.3 --policy rh --step 60 --look 60 --terminal boundary --bnd kms --info progressive --tl 600
+--inst A02 --scenario 4 --cap_ratio 0.3 --policy rh --step 60 --look 60 --terminal boundary --bnd kvms --info progressive --tl 600
+--inst A02 --scenario 4 --cap_ratio 0.3 --policy rh --step 60 --look 60 --terminal none --info progressive --tl 300
+--inst A02 --scenario 4 --cap_ratio 0.3 --policy rh --step 60 --look day --terminal boundary --bnd kms --info progressive --tl 600
+--inst A02 --scenario 4 --cap_ratio 0.3 --policy rh --step 60 --look day --terminal boundary --bnd kvms --info progressive --tl 600
+--inst A02 --scenario 4 --cap_ratio 0.3 --policy rh --step 60 --look inf --terminal none --info progressive --tl 900
+--inst A02 --scenario 5 --cap_ratio 0.3 --policy occ
+--inst A02 --scenario 5 --cap_ratio 0.3 --policy rh --step 60 --look 180 --terminal boundary --bnd kms --info progressive --tl 600
+--inst A02 --scenario 5 --cap_ratio 0.3 --policy rh --step 60 --look 180 --terminal boundary --bnd kvms --info progressive --tl 600
+--inst A02 --scenario 5 --cap_ratio 0.3 --policy rh --step 60 --look 60 --terminal boundary --bnd kms --info progressive --tl 600
+--inst A02 --scenario 5 --cap_ratio 0.3 --policy rh --step 60 --look 60 --terminal boundary --bnd kvms --info progressive --tl 600
+--inst A02 --scenario 5 --cap_ratio 0.3 --policy rh --step 60 --look 60 --terminal none --info progressive --tl 300
+--inst A02 --scenario 5 --cap_ratio 0.3 --policy rh --step 60 --look day --terminal boundary --bnd kms --info progressive --tl 600
+--inst A02 --scenario 5 --cap_ratio 0.3 --policy rh --step 60 --look day --terminal boundary --bnd kvms --info progressive --tl 600
+--inst A02 --scenario 5 --cap_ratio 0.3 --policy rh --step 60 --look inf --terminal none --info progressive --tl 900
+--inst A03 --scenario 1 --cap_ratio 0.3 --policy occ
+--inst A03 --scenario 1 --cap_ratio 0.3 --policy rh --step 60 --look 180 --terminal boundary --bnd kms --info progressive --tl 600
+--inst A03 --scenario 1 --cap_ratio 0.3 --policy rh --step 60 --look 180 --terminal boundary --bnd kvms --info progressive --tl 600
+--inst A03 --scenario 1 --cap_ratio 0.3 --policy rh --step 60 --look 60 --terminal boundary --bnd kms --info progressive --tl 600
+--inst A03 --scenario 1 --cap_ratio 0.3 --policy rh --step 60 --look 60 --terminal boundary --bnd kvms --info progressive --tl 600
+--inst A03 --scenario 1 --cap_ratio 0.3 --policy rh --step 60 --look 60 --terminal none --info progressive --tl 300
+--inst A03 --scenario 1 --cap_ratio 0.3 --policy rh --step 60 --look day --terminal boundary --bnd kms --info progressive --tl 600
+--inst A03 --scenario 1 --cap_ratio 0.3 --policy rh --step 60 --look day --terminal boundary --bnd kvms --info progressive --tl 600
+--inst A03 --scenario 1 --cap_ratio 0.3 --policy rh --step 60 --look inf --terminal none --info progressive --tl 900
+--inst A03 --scenario 2 --cap_ratio 0.3 --policy occ
+--inst A03 --scenario 2 --cap_ratio 0.3 --policy rh --step 60 --look 180 --terminal boundary --bnd kms --info progressive --tl 600
+--inst A03 --scenario 2 --cap_ratio 0.3 --policy rh --step 60 --look 180 --terminal boundary --bnd kvms --info progressive --tl 600
+--inst A03 --scenario 2 --cap_ratio 0.3 --policy rh --step 60 --look 60 --terminal boundary --bnd kms --info progressive --tl 600
+--inst A03 --scenario 2 --cap_ratio 0.3 --policy rh --step 60 --look 60 --terminal boundary --bnd kvms --info progressive --tl 600
+--inst A03 --scenario 2 --cap_ratio 0.3 --policy rh --step 60 --look 60 --terminal none --info progressive --tl 300
+--inst A03 --scenario 2 --cap_ratio 0.3 --policy rh --step 60 --look day --terminal boundary --bnd kms --info progressive --tl 600
+--inst A03 --scenario 2 --cap_ratio 0.3 --policy rh --step 60 --look day --terminal boundary --bnd kvms --info progressive --tl 600
+--inst A03 --scenario 2 --cap_ratio 0.3 --policy rh --step 60 --look inf --terminal none --info progressive --tl 900
+--inst A03 --scenario 3 --cap_ratio 0.3 --policy occ
+--inst A03 --scenario 3 --cap_ratio 0.3 --policy rh --step 60 --look 180 --terminal boundary --bnd kms --info progressive --tl 600
+--inst A03 --scenario 3 --cap_ratio 0.3 --policy rh --step 60 --look 180 --terminal boundary --bnd kvms --info progressive --tl 600
+--inst A03 --scenario 3 --cap_ratio 0.3 --policy rh --step 60 --look 60 --terminal boundary --bnd kms --info progressive --tl 600
+--inst A03 --scenario 3 --cap_ratio 0.3 --policy rh --step 60 --look 60 --terminal boundary --bnd kvms --info progressive --tl 600
+--inst A03 --scenario 3 --cap_ratio 0.3 --policy rh --step 60 --look 60 --terminal none --info progressive --tl 300
+--inst A03 --scenario 3 --cap_ratio 0.3 --policy rh --step 60 --look day --terminal boundary --bnd kms --info progressive --tl 600
+--inst A03 --scenario 3 --cap_ratio 0.3 --policy rh --step 60 --look day --terminal boundary --bnd kvms --info progressive --tl 600
+--inst A03 --scenario 3 --cap_ratio 0.3 --policy rh --step 60 --look inf --terminal none --info progressive --tl 900
+--inst A03 --scenario 4 --cap_ratio 0.3 --policy occ
+--inst A03 --scenario 4 --cap_ratio 0.3 --policy rh --step 60 --look 180 --terminal boundary --bnd kms --info progressive --tl 600
+--inst A03 --scenario 4 --cap_ratio 0.3 --policy rh --step 60 --look 180 --terminal boundary --bnd kvms --info progressive --tl 600
+--inst A03 --scenario 4 --cap_ratio 0.3 --policy rh --step 60 --look 60 --terminal boundary --bnd kms --info progressive --tl 600
+--inst A03 --scenario 4 --cap_ratio 0.3 --policy rh --step 60 --look 60 --terminal boundary --bnd kvms --info progressive --tl 600
+--inst A03 --scenario 4 --cap_ratio 0.3 --policy rh --step 60 --look 60 --terminal none --info progressive --tl 300
+--inst A03 --scenario 4 --cap_ratio 0.3 --policy rh --step 60 --look day --terminal boundary --bnd kms --info progressive --tl 600
+--inst A03 --scenario 4 --cap_ratio 0.3 --policy rh --step 60 --look day --terminal boundary --bnd kvms --info progressive --tl 600
+--inst A03 --scenario 4 --cap_ratio 0.3 --policy rh --step 60 --look inf --terminal none --info progressive --tl 900
+--inst A03 --scenario 5 --cap_ratio 0.3 --policy occ
+--inst A03 --scenario 5 --cap_ratio 0.3 --policy rh --step 60 --look 180 --terminal boundary --bnd kms --info progressive --tl 600
+--inst A03 --scenario 5 --cap_ratio 0.3 --policy rh --step 60 --look 180 --terminal boundary --bnd kvms --info progressive --tl 600
+--inst A03 --scenario 5 --cap_ratio 0.3 --policy rh --step 60 --look 60 --terminal boundary --bnd kms --info progressive --tl 600
+--inst A03 --scenario 5 --cap_ratio 0.3 --policy rh --step 60 --look 60 --terminal boundary --bnd kvms --info progressive --tl 600
+--inst A03 --scenario 5 --cap_ratio 0.3 --policy rh --step 60 --look 60 --terminal none --info progressive --tl 300
+--inst A03 --scenario 5 --cap_ratio 0.3 --policy rh --step 60 --look day --terminal boundary --bnd kms --info progressive --tl 600
+--inst A03 --scenario 5 --cap_ratio 0.3 --policy rh --step 60 --look day --terminal boundary --bnd kvms --info progressive --tl 600
+--inst A03 --scenario 5 --cap_ratio 0.3 --policy rh --step 60 --look inf --terminal none --info progressive --tl 900
+--inst A04 --scenario 1 --cap_ratio 0.3 --policy occ
+--inst A04 --scenario 1 --cap_ratio 0.3 --policy rh --step 60 --look 180 --terminal boundary --bnd kms --info progressive --tl 600
+--inst A04 --scenario 1 --cap_ratio 0.3 --policy rh --step 60 --look 180 --terminal boundary --bnd kvms --info progressive --tl 600
+--inst A04 --scenario 1 --cap_ratio 0.3 --policy rh --step 60 --look 60 --terminal boundary --bnd kms --info progressive --tl 600
+--inst A04 --scenario 1 --cap_ratio 0.3 --policy rh --step 60 --look 60 --terminal boundary --bnd kvms --info progressive --tl 600
+--inst A04 --scenario 1 --cap_ratio 0.3 --policy rh --step 60 --look 60 --terminal none --info progressive --tl 300
+--inst A04 --scenario 1 --cap_ratio 0.3 --policy rh --step 60 --look day --terminal boundary --bnd kms --info progressive --tl 600
+--inst A04 --scenario 1 --cap_ratio 0.3 --policy rh --step 60 --look day --terminal boundary --bnd kvms --info progressive --tl 600
+--inst A04 --scenario 1 --cap_ratio 0.3 --policy rh --step 60 --look inf --terminal none --info progressive --tl 900
+--inst A04 --scenario 2 --cap_ratio 0.3 --policy occ
+--inst A04 --scenario 2 --cap_ratio 0.3 --policy rh --step 60 --look 180 --terminal boundary --bnd kms --info progressive --tl 600
+--inst A04 --scenario 2 --cap_ratio 0.3 --policy rh --step 60 --look 180 --terminal boundary --bnd kvms --info progressive --tl 600
+--inst A04 --scenario 2 --cap_ratio 0.3 --policy rh --step 60 --look 60 --terminal boundary --bnd kms --info progressive --tl 600
+--inst A04 --scenario 2 --cap_ratio 0.3 --policy rh --step 60 --look 60 --terminal boundary --bnd kvms --info progressive --tl 600
+--inst A04 --scenario 2 --cap_ratio 0.3 --policy rh --step 60 --look 60 --terminal none --info progressive --tl 300
+--inst A04 --scenario 2 --cap_ratio 0.3 --policy rh --step 60 --look day --terminal boundary --bnd kms --info progressive --tl 600
+--inst A04 --scenario 2 --cap_ratio 0.3 --policy rh --step 60 --look day --terminal boundary --bnd kvms --info progressive --tl 600
+--inst A04 --scenario 2 --cap_ratio 0.3 --policy rh --step 60 --look inf --terminal none --info progressive --tl 900
+--inst A04 --scenario 3 --cap_ratio 0.3 --policy occ
+--inst A04 --scenario 3 --cap_ratio 0.3 --policy rh --step 60 --look 180 --terminal boundary --bnd kms --info progressive --tl 600
+--inst A04 --scenario 3 --cap_ratio 0.3 --policy rh --step 60 --look 180 --terminal boundary --bnd kvms --info progressive --tl 600
+--inst A04 --scenario 3 --cap_ratio 0.3 --policy rh --step 60 --look 60 --terminal boundary --bnd kms --info progressive --tl 600
+--inst A04 --scenario 3 --cap_ratio 0.3 --policy rh --step 60 --look 60 --terminal boundary --bnd kvms --info progressive --tl 600
+--inst A04 --scenario 3 --cap_ratio 0.3 --policy rh --step 60 --look 60 --terminal none --info progressive --tl 300
+--inst A04 --scenario 3 --cap_ratio 0.3 --policy rh --step 60 --look day --terminal boundary --bnd kms --info progressive --tl 600
+--inst A04 --scenario 3 --cap_ratio 0.3 --policy rh --step 60 --look day --terminal boundary --bnd kvms --info progressive --tl 600
+--inst A04 --scenario 3 --cap_ratio 0.3 --policy rh --step 60 --look inf --terminal none --info progressive --tl 900
+--inst A04 --scenario 4 --cap_ratio 0.3 --policy occ
+--inst A04 --scenario 4 --cap_ratio 0.3 --policy rh --step 60 --look 180 --terminal boundary --bnd kms --info progressive --tl 600
+--inst A04 --scenario 4 --cap_ratio 0.3 --policy rh --step 60 --look 60 --terminal boundary --bnd kms --info progressive --tl 600
+--inst A04 --scenario 4 --cap_ratio 0.3 --policy rh --step 60 --look 60 --terminal boundary --bnd kvms --info progressive --tl 600
+--inst A04 --scenario 4 --cap_ratio 0.3 --policy rh --step 60 --look 60 --terminal none --info progressive --tl 300
+--inst A04 --scenario 4 --cap_ratio 0.3 --policy rh --step 60 --look day --terminal boundary --bnd kms --info progressive --tl 600
+--inst A04 --scenario 4 --cap_ratio 0.3 --policy rh --step 60 --look inf --terminal none --info progressive --tl 900
+--inst A04 --scenario 5 --cap_ratio 0.3 --policy occ
+--inst A04 --scenario 5 --cap_ratio 0.3 --policy rh --step 60 --look 180 --terminal boundary --bnd kms --info progressive --tl 600
+--inst A04 --scenario 5 --cap_ratio 0.3 --policy rh --step 60 --look 60 --terminal boundary --bnd kms --info progressive --tl 600
+--inst A04 --scenario 5 --cap_ratio 0.3 --policy rh --step 60 --look 60 --terminal none --info progressive --tl 300
+--inst A04 --scenario 5 --cap_ratio 0.3 --policy rh --step 60 --look day --terminal boundary --bnd kms --info progressive --tl 600
+--inst A04 --scenario 5 --cap_ratio 0.3 --policy rh --step 60 --look inf --terminal none --info progressive --tl 900
+--inst A06 --scenario 1 --cap_ratio 0.3 --policy occ
+--inst A06 --scenario 1 --cap_ratio 0.3 --policy rh --step 60 --look 180 --terminal boundary --bnd kms --info progressive --tl 600
+--inst A06 --scenario 1 --cap_ratio 0.3 --policy rh --step 60 --look 60 --terminal boundary --bnd kms --info progressive --tl 600
+--inst A06 --scenario 1 --cap_ratio 0.3 --policy rh --step 60 --look 60 --terminal none --info progressive --tl 300
+--inst A06 --scenario 1 --cap_ratio 0.3 --policy rh --step 60 --look day --terminal boundary --bnd kms --info progressive --tl 600
+--inst A06 --scenario 1 --cap_ratio 0.3 --policy rh --step 60 --look inf --terminal none --info progressive --tl 900
+--inst A06 --scenario 2 --cap_ratio 0.3 --policy occ
+--inst A06 --scenario 2 --cap_ratio 0.3 --policy rh --step 60 --look 180 --terminal boundary --bnd kms --info progressive --tl 600
+--inst A06 --scenario 2 --cap_ratio 0.3 --policy rh --step 60 --look 60 --terminal boundary --bnd kms --info progressive --tl 600
+--inst A06 --scenario 2 --cap_ratio 0.3 --policy rh --step 60 --look 60 --terminal none --info progressive --tl 300
+--inst A06 --scenario 2 --cap_ratio 0.3 --policy rh --step 60 --look day --terminal boundary --bnd kms --info progressive --tl 600
+--inst A06 --scenario 2 --cap_ratio 0.3 --policy rh --step 60 --look inf --terminal none --info progressive --tl 900
+--inst A06 --scenario 3 --cap_ratio 0.3 --policy occ
+--inst A06 --scenario 3 --cap_ratio 0.3 --policy rh --step 60 --look 180 --terminal boundary --bnd kms --info progressive --tl 600
+--inst A06 --scenario 3 --cap_ratio 0.3 --policy rh --step 60 --look 60 --terminal boundary --bnd kms --info progressive --tl 600
+--inst A06 --scenario 3 --cap_ratio 0.3 --policy rh --step 60 --look 60 --terminal none --info progressive --tl 300
+--inst A06 --scenario 3 --cap_ratio 0.3 --policy rh --step 60 --look day --terminal boundary --bnd kms --info progressive --tl 600
+--inst A06 --scenario 3 --cap_ratio 0.3 --policy rh --step 60 --look inf --terminal none --info progressive --tl 900
+--inst A06 --scenario 4 --cap_ratio 0.3 --policy occ
+--inst A06 --scenario 4 --cap_ratio 0.3 --policy rh --step 60 --look 180 --terminal boundary --bnd kms --info progressive --tl 600
+--inst A06 --scenario 4 --cap_ratio 0.3 --policy rh --step 60 --look 60 --terminal boundary --bnd kms --info progressive --tl 600
+--inst A06 --scenario 4 --cap_ratio 0.3 --policy rh --step 60 --look 60 --terminal none --info progressive --tl 300
+--inst A06 --scenario 4 --cap_ratio 0.3 --policy rh --step 60 --look day --terminal boundary --bnd kms --info progressive --tl 600
+--inst A06 --scenario 4 --cap_ratio 0.3 --policy rh --step 60 --look inf --terminal none --info progressive --tl 900
+--inst A06 --scenario 5 --cap_ratio 0.3 --policy occ
+--inst A06 --scenario 5 --cap_ratio 0.3 --policy rh --step 60 --look 180 --terminal boundary --bnd kms --info progressive --tl 600
+--inst A06 --scenario 5 --cap_ratio 0.3 --policy rh --step 60 --look 60 --terminal boundary --bnd kms --info progressive --tl 600
+--inst A06 --scenario 5 --cap_ratio 0.3 --policy rh --step 60 --look 60 --terminal none --info progressive --tl 300
+--inst A06 --scenario 5 --cap_ratio 0.3 --policy rh --step 60 --look day --terminal boundary --bnd kms --info progressive --tl 600
+--inst A06 --scenario 5 --cap_ratio 0.3 --policy rh --step 60 --look inf --terminal none --info progressive --tl 900
+--inst A07 --scenario 1 --cap_ratio 0.3 --policy occ
+--inst A07 --scenario 1 --cap_ratio 0.3 --policy rh --step 60 --look 180 --terminal boundary --bnd kms --info progressive --tl 600
+--inst A07 --scenario 1 --cap_ratio 0.3 --policy rh --step 60 --look 60 --terminal boundary --bnd kms --info progressive --tl 600
+--inst A07 --scenario 1 --cap_ratio 0.3 --policy rh --step 60 --look 60 --terminal none --info progressive --tl 300
+--inst A07 --scenario 1 --cap_ratio 0.3 --policy rh --step 60 --look day --terminal boundary --bnd kms --info progressive --tl 600
+--inst A07 --scenario 1 --cap_ratio 0.3 --policy rh --step 60 --look inf --terminal none --info progressive --tl 900
+--inst A07 --scenario 2 --cap_ratio 0.3 --policy occ
+--inst A07 --scenario 2 --cap_ratio 0.3 --policy rh --step 60 --look 180 --terminal boundary --bnd kms --info progressive --tl 600
+--inst A07 --scenario 2 --cap_ratio 0.3 --policy rh --step 60 --look 60 --terminal boundary --bnd kms --info progressive --tl 600
+--inst A07 --scenario 2 --cap_ratio 0.3 --policy rh --step 60 --look 60 --terminal none --info progressive --tl 300
+--inst A07 --scenario 2 --cap_ratio 0.3 --policy rh --step 60 --look day --terminal boundary --bnd kms --info progressive --tl 600
+--inst A07 --scenario 2 --cap_ratio 0.3 --policy rh --step 60 --look inf --terminal none --info progressive --tl 900
+--inst A07 --scenario 3 --cap_ratio 0.3 --policy occ
+--inst A07 --scenario 3 --cap_ratio 0.3 --policy rh --step 60 --look 180 --terminal boundary --bnd kms --info progressive --tl 600
+--inst A07 --scenario 3 --cap_ratio 0.3 --policy rh --step 60 --look 60 --terminal boundary --bnd kms --info progressive --tl 600
+--inst A07 --scenario 3 --cap_ratio 0.3 --policy rh --step 60 --look 60 --terminal none --info progressive --tl 300
+--inst A07 --scenario 3 --cap_ratio 0.3 --policy rh --step 60 --look day --terminal boundary --bnd kms --info progressive --tl 600
+--inst A07 --scenario 3 --cap_ratio 0.3 --policy rh --step 60 --look inf --terminal none --info progressive --tl 900
+--inst A07 --scenario 4 --cap_ratio 0.3 --policy occ
+--inst A07 --scenario 4 --cap_ratio 0.3 --policy rh --step 60 --look 180 --terminal boundary --bnd kms --info progressive --tl 600
+--inst A07 --scenario 4 --cap_ratio 0.3 --policy rh --step 60 --look 60 --terminal boundary --bnd kms --info progressive --tl 600
+--inst A07 --scenario 4 --cap_ratio 0.3 --policy rh --step 60 --look 60 --terminal none --info progressive --tl 300
+--inst A07 --scenario 4 --cap_ratio 0.3 --policy rh --step 60 --look day --terminal boundary --bnd kms --info progressive --tl 600
+--inst A07 --scenario 4 --cap_ratio 0.3 --policy rh --step 60 --look inf --terminal none --info progressive --tl 900
+--inst A07 --scenario 5 --cap_ratio 0.3 --policy occ
+--inst A07 --scenario 5 --cap_ratio 0.3 --policy rh --step 60 --look 180 --terminal boundary --bnd kms --info progressive --tl 600
+--inst A07 --scenario 5 --cap_ratio 0.3 --policy rh --step 60 --look 60 --terminal boundary --bnd kms --info progressive --tl 600
+--inst A07 --scenario 5 --cap_ratio 0.3 --policy rh --step 60 --look 60 --terminal none --info progressive --tl 300
+--inst A07 --scenario 5 --cap_ratio 0.3 --policy rh --step 60 --look day --terminal boundary --bnd kms --info progressive --tl 600
+--inst A07 --scenario 5 --cap_ratio 0.3 --policy rh --step 60 --look inf --terminal none --info progressive --tl 900
+--inst A08 --scenario 1 --cap_ratio 0.3 --policy occ
+--inst A08 --scenario 1 --cap_ratio 0.3 --policy rh --step 60 --look 180 --terminal boundary --bnd kms --info progressive --tl 600
+--inst A08 --scenario 1 --cap_ratio 0.3 --policy rh --step 60 --look 60 --terminal boundary --bnd kms --info progressive --tl 600
+--inst A08 --scenario 1 --cap_ratio 0.3 --policy rh --step 60 --look 60 --terminal none --info progressive --tl 300
+--inst A08 --scenario 1 --cap_ratio 0.3 --policy rh --step 60 --look day --terminal boundary --bnd kms --info progressive --tl 600
+--inst A08 --scenario 1 --cap_ratio 0.3 --policy rh --step 60 --look inf --terminal none --info progressive --tl 900
+--inst A08 --scenario 2 --cap_ratio 0.3 --policy occ
+--inst A08 --scenario 2 --cap_ratio 0.3 --policy rh --step 60 --look 180 --terminal boundary --bnd kms --info progressive --tl 600
+--inst A08 --scenario 2 --cap_ratio 0.3 --policy rh --step 60 --look 60 --terminal boundary --bnd kms --info progressive --tl 600
+--inst A08 --scenario 2 --cap_ratio 0.3 --policy rh --step 60 --look 60 --terminal none --info progressive --tl 300
+--inst A08 --scenario 2 --cap_ratio 0.3 --policy rh --step 60 --look day --terminal boundary --bnd kms --info progressive --tl 600
+--inst A08 --scenario 2 --cap_ratio 0.3 --policy rh --step 60 --look inf --terminal none --info progressive --tl 900
+--inst A08 --scenario 3 --cap_ratio 0.3 --policy occ
+--inst A08 --scenario 3 --cap_ratio 0.3 --policy rh --step 60 --look 180 --terminal boundary --bnd kms --info progressive --tl 600
+--inst A08 --scenario 3 --cap_ratio 0.3 --policy rh --step 60 --look 60 --terminal boundary --bnd kms --info progressive --tl 600
+--inst A08 --scenario 3 --cap_ratio 0.3 --policy rh --step 60 --look 60 --terminal none --info progressive --tl 300
+--inst A08 --scenario 3 --cap_ratio 0.3 --policy rh --step 60 --look day --terminal boundary --bnd kms --info progressive --tl 600
+--inst A08 --scenario 3 --cap_ratio 0.3 --policy rh --step 60 --look inf --terminal none --info progressive --tl 900
+--inst A08 --scenario 4 --cap_ratio 0.3 --policy occ
+--inst A08 --scenario 4 --cap_ratio 0.3 --policy rh --step 60 --look 180 --terminal boundary --bnd kms --info progressive --tl 600
+--inst A08 --scenario 4 --cap_ratio 0.3 --policy rh --step 60 --look 60 --terminal boundary --bnd kms --info progressive --tl 600
+--inst A08 --scenario 4 --cap_ratio 0.3 --policy rh --step 60 --look 60 --terminal none --info progressive --tl 300
+--inst A08 --scenario 4 --cap_ratio 0.3 --policy rh --step 60 --look day --terminal boundary --bnd kms --info progressive --tl 600
+--inst A08 --scenario 4 --cap_ratio 0.3 --policy rh --step 60 --look inf --terminal none --info progressive --tl 900
+--inst A08 --scenario 5 --cap_ratio 0.3 --policy occ
+--inst A08 --scenario 5 --cap_ratio 0.3 --policy rh --step 60 --look 180 --terminal boundary --bnd kms --info progressive --tl 600
+--inst A08 --scenario 5 --cap_ratio 0.3 --policy rh --step 60 --look 60 --terminal boundary --bnd kms --info progressive --tl 600
+--inst A08 --scenario 5 --cap_ratio 0.3 --policy rh --step 60 --look 60 --terminal none --info progressive --tl 300
+--inst A08 --scenario 5 --cap_ratio 0.3 --policy rh --step 60 --look day --terminal boundary --bnd kms --info progressive --tl 600
+--inst A08 --scenario 5 --cap_ratio 0.3 --policy rh --step 60 --look inf --terminal none --info progressive --tl 900
+--inst A09 --scenario 1 --cap_ratio 0.3 --policy occ
+--inst A09 --scenario 1 --cap_ratio 0.3 --policy rh --step 60 --look 180 --terminal boundary --bnd kms --info progressive --tl 600
+--inst A09 --scenario 1 --cap_ratio 0.3 --policy rh --step 60 --look 60 --terminal boundary --bnd kms --info progressive --tl 600
+--inst A09 --scenario 1 --cap_ratio 0.3 --policy rh --step 60 --look 60 --terminal none --info progressive --tl 300
+--inst A09 --scenario 1 --cap_ratio 0.3 --policy rh --step 60 --look day --terminal boundary --bnd kms --info progressive --tl 600
+--inst A09 --scenario 1 --cap_ratio 0.3 --policy rh --step 60 --look inf --terminal none --info progressive --tl 900
+--inst A09 --scenario 2 --cap_ratio 0.3 --policy occ
+--inst A09 --scenario 2 --cap_ratio 0.3 --policy rh --step 60 --look 180 --terminal boundary --bnd kms --info progressive --tl 600
+--inst A09 --scenario 2 --cap_ratio 0.3 --policy rh --step 60 --look 60 --terminal boundary --bnd kms --info progressive --tl 600
+--inst A09 --scenario 2 --cap_ratio 0.3 --policy rh --step 60 --look 60 --terminal none --info progressive --tl 300
+--inst A09 --scenario 2 --cap_ratio 0.3 --policy rh --step 60 --look day --terminal boundary --bnd kms --info progressive --tl 600
+--inst A09 --scenario 2 --cap_ratio 0.3 --policy rh --step 60 --look inf --terminal none --info progressive --tl 900
+--inst A09 --scenario 3 --cap_ratio 0.3 --policy occ
+--inst A09 --scenario 3 --cap_ratio 0.3 --policy rh --step 60 --look 180 --terminal boundary --bnd kms --info progressive --tl 600
+--inst A09 --scenario 3 --cap_ratio 0.3 --policy rh --step 60 --look 60 --terminal boundary --bnd kms --info progressive --tl 600
+--inst A09 --scenario 3 --cap_ratio 0.3 --policy rh --step 60 --look 60 --terminal none --info progressive --tl 300
+--inst A09 --scenario 3 --cap_ratio 0.3 --policy rh --step 60 --look day --terminal boundary --bnd kms --info progressive --tl 600
+--inst A09 --scenario 3 --cap_ratio 0.3 --policy rh --step 60 --look inf --terminal none --info progressive --tl 900
+--inst A09 --scenario 4 --cap_ratio 0.3 --policy occ
+--inst A09 --scenario 4 --cap_ratio 0.3 --policy rh --step 60 --look 180 --terminal boundary --bnd kms --info progressive --tl 600
+--inst A09 --scenario 4 --cap_ratio 0.3 --policy rh --step 60 --look 60 --terminal boundary --bnd kms --info progressive --tl 600
+--inst A09 --scenario 4 --cap_ratio 0.3 --policy rh --step 60 --look 60 --terminal none --info progressive --tl 300
+--inst A09 --scenario 4 --cap_ratio 0.3 --policy rh --step 60 --look day --terminal boundary --bnd kms --info progressive --tl 600
+--inst A09 --scenario 4 --cap_ratio 0.3 --policy rh --step 60 --look inf --terminal none --info progressive --tl 900
+--inst A09 --scenario 5 --cap_ratio 0.3 --policy occ
+--inst A09 --scenario 5 --cap_ratio 0.3 --policy rh --step 60 --look 180 --terminal boundary --bnd kms --info progressive --tl 600
+--inst A09 --scenario 5 --cap_ratio 0.3 --policy rh --step 60 --look 60 --terminal boundary --bnd kms --info progressive --tl 600
+--inst A09 --scenario 5 --cap_ratio 0.3 --policy rh --step 60 --look 60 --terminal none --info progressive --tl 300
+--inst A09 --scenario 5 --cap_ratio 0.3 --policy rh --step 60 --look day --terminal boundary --bnd kms --info progressive --tl 600
+--inst A09 --scenario 5 --cap_ratio 0.3 --policy rh --step 60 --look inf --terminal none --info progressive --tl 900

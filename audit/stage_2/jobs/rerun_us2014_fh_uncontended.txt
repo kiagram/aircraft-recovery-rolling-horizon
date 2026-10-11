@@ -1,0 +1,9 @@
+--inst US02_A320_NQ --policy fh --lpm ipm --tl 1800
+--inst US02_A320 --policy fh --lpm ipm --tl 1800
+--inst US02_B737 --policy fh --grid coarse --lpm ipm --tl 1800
+--inst US02_CRJ200 --policy fh --grid coarse --lpm ipm --tl 1800
+--inst US02_CRJ700 --policy fh --lpm ipm --tl 1800
+--inst US03 --policy fh --lpm ipm --tl 1800
+--inst US08_A320 --policy fh --grid coarse --lpm ipm --tl 1800
+--inst US08_CRJ700 --policy fh --lpm ipm --tl 1800
+--inst US08_EMB120 --policy fh --lpm ipm --tl 1800

@@ -1,0 +1,64 @@
+--inst A01 --regime eu2025 --policy fh --tl 1800
+--inst A01 --regime eu261 --policy fh --tl 1800
+--inst A02 --regime eu2025 --policy fh --tl 1800
+--inst A02 --regime eu261 --policy fh --tl 1800
+--inst A03 --regime eu2025 --policy fh --tl 1800
+--inst A03 --regime eu261 --policy fh --tl 1800
+--inst A04 --regime eu2025 --policy fh --tl 1800
+--inst A04 --regime eu261 --policy fh --tl 1800
+--inst A06 --regime eu2025 --policy fh --tl 1800
+--inst A06 --regime eu261 --policy fh --tl 1800
+--inst A07 --regime eu2025 --policy fh --tl 1800
+--inst A07 --regime eu261 --policy fh --tl 1800
+--inst A08 --regime eu2025 --policy fh --tl 1800
+--inst A08 --regime eu261 --policy fh --tl 1800
+--inst A09 --regime eu2025 --policy fh --tl 1800
+--inst A09 --regime eu261 --policy fh --tl 1800
+--inst A01 --regime eu2025 --policy rh --step 60 --look 60 --terminal boundary --bnd kms --tl 300
+--inst A01 --regime eu2025 --policy rh --step 60 --look 60 --terminal boundary --bnd kvms --tl 300
+--inst A01 --regime eu2025 --policy rh --step 60 --look 60 --commit stage --terminal none --tl 300
+--inst A01 --regime eu261 --policy rh --step 60 --look 60 --terminal boundary --bnd kms --tl 300
+--inst A01 --regime eu261 --policy rh --step 60 --look 60 --terminal boundary --bnd kvms --tl 300
+--inst A01 --regime eu261 --policy rh --step 60 --look 60 --commit stage --terminal none --tl 300
+--inst A02 --regime eu2025 --policy rh --step 60 --look 60 --terminal boundary --bnd kms --tl 300
+--inst A02 --regime eu2025 --policy rh --step 60 --look 60 --terminal boundary --bnd kvms --tl 300
+--inst A02 --regime eu2025 --policy rh --step 60 --look 60 --commit stage --terminal none --tl 300
+--inst A02 --regime eu261 --policy rh --step 60 --look 60 --terminal boundary --bnd kms --tl 300
+--inst A02 --regime eu261 --policy rh --step 60 --look 60 --terminal boundary --bnd kvms --tl 300
+--inst A02 --regime eu261 --policy rh --step 60 --look 60 --commit stage --terminal none --tl 300
+--inst A03 --regime eu2025 --policy rh --step 60 --look 60 --terminal boundary --bnd kms --tl 300
+--inst A03 --regime eu2025 --policy rh --step 60 --look 60 --terminal boundary --bnd kvms --tl 300
+--inst A03 --regime eu2025 --policy rh --step 60 --look 60 --commit stage --terminal none --tl 300
+--inst A03 --regime eu261 --policy rh --step 60 --look 60 --terminal boundary --bnd kms --tl 300
+--inst A03 --regime eu261 --policy rh --step 60 --look 60 --terminal boundary --bnd kvms --tl 300
+--inst A03 --regime eu261 --policy rh --step 60 --look 60 --commit stage --terminal none --tl 300
+--inst A04 --regime eu2025 --policy rh --step 60 --look 60 --terminal boundary --bnd kms --tl 300
+--inst A04 --regime eu2025 --policy rh --step 60 --look 60 --terminal boundary --bnd kvms --tl 300
+--inst A04 --regime eu2025 --policy rh --step 60 --look 60 --commit stage --terminal none --tl 300
+--inst A04 --regime eu261 --policy rh --step 60 --look 60 --terminal boundary --bnd kms --tl 300
+--inst A04 --regime eu261 --policy rh --step 60 --look 60 --terminal boundary --bnd kvms --tl 300
+--inst A04 --regime eu261 --policy rh --step 60 --look 60 --commit stage --terminal none --tl 300
+--inst A06 --regime eu2025 --policy rh --step 60 --look 60 --terminal boundary --bnd kms --tl 300
+--inst A06 --regime eu2025 --policy rh --step 60 --look 60 --terminal boundary --bnd kvms --tl 300
+--inst A06 --regime eu2025 --policy rh --step 60 --look 60 --commit stage --terminal none --tl 300
+--inst A06 --regime eu261 --policy rh --step 60 --look 60 --terminal boundary --bnd kms --tl 300
+--inst A06 --regime eu261 --policy rh --step 60 --look 60 --terminal boundary --bnd kvms --tl 300
+--inst A06 --regime eu261 --policy rh --step 60 --look 60 --commit stage --terminal none --tl 300
+--inst A07 --regime eu2025 --policy rh --step 60 --look 60 --terminal boundary --bnd kms --tl 300
+--inst A07 --regime eu2025 --policy rh --step 60 --look 60 --terminal boundary --bnd kvms --tl 300
+--inst A07 --regime eu2025 --policy rh --step 60 --look 60 --commit stage --terminal none --tl 300
+--inst A07 --regime eu261 --policy rh --step 60 --look 60 --terminal boundary --bnd kms --tl 300
+--inst A07 --regime eu261 --policy rh --step 60 --look 60 --terminal boundary --bnd kvms --tl 300
+--inst A07 --regime eu261 --policy rh --step 60 --look 60 --commit stage --terminal none --tl 300
+--inst A08 --regime eu2025 --policy rh --step 60 --look 60 --terminal boundary --bnd kms --tl 300
+--inst A08 --regime eu2025 --policy rh --step 60 --look 60 --terminal boundary --bnd kvms --tl 300
+--inst A08 --regime eu2025 --policy rh --step 60 --look 60 --commit stage --terminal none --tl 300
+--inst A08 --regime eu261 --policy rh --step 60 --look 60 --terminal boundary --bnd kms --tl 300
+--inst A08 --regime eu261 --policy rh --step 60 --look 60 --terminal boundary --bnd kvms --tl 300
+--inst A08 --regime eu261 --policy rh --step 60 --look 60 --commit stage --terminal none --tl 300
+--inst A09 --regime eu2025 --policy rh --step 60 --look 60 --terminal boundary --bnd kms --tl 300
+--inst A09 --regime eu2025 --policy rh --step 60 --look 60 --terminal boundary --bnd kvms --tl 300
+--inst A09 --regime eu2025 --policy rh --step 60 --look 60 --commit stage --terminal none --tl 300
+--inst A09 --regime eu261 --policy rh --step 60 --look 60 --terminal boundary --bnd kms --tl 300
+--inst A09 --regime eu261 --policy rh --step 60 --look 60 --terminal boundary --bnd kvms --tl 300
+--inst A09 --regime eu261 --policy rh --step 60 --look 60 --commit stage --terminal none --tl 300

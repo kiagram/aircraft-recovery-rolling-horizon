@@ -1,0 +1,19 @@
+__pycache__/
+*.pyc
+.venv/
+
+# third-party data, downloaded by scripts/fetch_roadef2009.py and python -m arp.us2014.download (not redistributed)
+/roadef2009/
+/us2014/raw/
+/us2014/cache/
+/us2014/upstream_sources/
+
+# US2014-R instance files, rebuilt with python -m arp.us2014.build (checked against us2014/instances/CHECKSUMS.json)
+/us2014/instances/*/*.csv
+
+# raw solver logs and runner scratch files
+arp_rh/results*/logs/
+audit/stage_2/jobs/.tmp_*/
+
+# analysis output
+/out/

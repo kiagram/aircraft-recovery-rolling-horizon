@@ -1,0 +1,11 @@
+# Stage 2 CG reruns (run_cg.py).  Column: <results folder> | run_cg.py arguments
+results_cg_v2 | --inst A01 --grid fine --tl 600 --mip-tl 300
+results_cg_v2 | --inst A02 --grid fine --tl 600 --mip-tl 300
+results_us2014_v2 | --inst US03 --grid fine --tl 900 --mip-tl 300
+results_us2014_v2 | --inst US02_CRJ700 --grid fine --tl 900 --mip-tl 300
+results_us2014_v2 | --inst US08_EMB120 --grid fine --tl 900 --mip-tl 300
+results_us2014_v2 | --inst US08_CRJ700 --grid fine --tl 900 --mip-tl 300
+results_us2014_v2 | --inst US02_A320 --grid fine --tl 900 --mip-tl 300
+results_us2014_v2 | --inst US02_B737 --grid coarse --tl 900 --mip-tl 300
+results_us2014_v2 | --inst US02_CRJ200 --grid coarse --tl 900 --mip-tl 300
+results_us2014_v2 | --inst US08_A320 --grid coarse --tl 900 --mip-tl 300

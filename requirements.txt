@@ -1,0 +1,8 @@
+highspy>=1.12
+numpy>=2.0
+matplotlib>=3.8
+# US2014 rebuild (arp.us2014); on Windows tzdata is required for zoneinfo
+pandas>=2.2
+pyarrow>=15
+tzdata
+httpx>=0.27

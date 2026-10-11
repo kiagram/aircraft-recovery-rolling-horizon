@@ -1,0 +1,147 @@
+--inst B01 --policy fh --grid coarse --lpm ipm --tl 7200 --tag B01__fh-coarse-2h
+--inst B02 --policy fh --grid coarse --lpm ipm --tl 7200 --tag B02__fh-coarse-2h
+--inst B03 --policy fh --grid coarse --lpm ipm --tl 7200 --tag B03__fh-coarse-2h
+--inst B04 --policy fh --grid coarse --lpm ipm --tl 7200 --tag B04__fh-coarse-2h
+--inst B05 --policy fh --grid coarse --lpm ipm --tl 3600
+--inst B06 --policy fh --grid coarse --lpm ipm --tl 3600
+--inst B07 --policy fh --grid coarse --lpm ipm --tl 3600
+--inst B08 --policy fh --grid coarse --lpm ipm --tl 3600
+--inst B09 --policy fh --grid coarse --lpm ipm --tl 3600
+--inst B10 --policy fh --grid coarse --lpm ipm --tl 3600
+--inst XB01 --policy fh --grid coarse --lpm ipm --tl 3600
+--inst XB02 --policy fh --grid coarse --lpm ipm --tl 3600
+--inst XB03 --policy fh --grid coarse --lpm ipm --tl 3600
+--inst XB04 --policy fh --grid coarse --lpm ipm --tl 3600
+--inst B01 --policy occ
+--inst B01 --policy rh --step 60 --look 180 --terminal boundary --bnd kms --grid coarse --tl 600
+--inst B01 --policy rh --step 60 --look 360 --terminal boundary --bnd k --grid coarse --tl 600
+--inst B01 --policy rh --step 60 --look 360 --terminal boundary --bnd kms --grid coarse --tl 600
+--inst B01 --policy rh --step 60 --look 360 --terminal boundary --bnd kvms --grid coarse --tl 600
+--inst B01 --policy rh --step 60 --look 360 --terminal boundary --bnd nkvms --grid coarse --tl 600
+--inst B01 --policy rh --step 60 --look 360 --terminal none --grid coarse --tl 600
+--inst B01 --policy rh --step 60 --look 60 --terminal boundary --bnd kms --grid coarse --tl 600
+--inst B01 --policy rh --step 60 --look 60 --terminal none --grid coarse --tl 300
+--inst B01 --policy rh --step 60 --look 60 --commit stage --terminal none --grid coarse --tl 300
+--inst B01 --policy rh --step 60 --look day --terminal boundary --bnd kms --grid coarse --tl 900
+--inst B01 --policy rh --step 60 --look day --terminal boundary --bnd kvms --grid coarse --tl 900
+--inst B02 --policy occ
+--inst B02 --policy rh --step 60 --look 180 --terminal boundary --bnd kms --grid coarse --tl 600
+--inst B02 --policy rh --step 60 --look 360 --terminal boundary --bnd k --grid coarse --tl 600
+--inst B02 --policy rh --step 60 --look 360 --terminal boundary --bnd kms --grid coarse --tl 600
+--inst B02 --policy rh --step 60 --look 360 --terminal boundary --bnd kvms --grid coarse --tl 600
+--inst B02 --policy rh --step 60 --look 360 --terminal boundary --bnd nkvms --grid coarse --tl 600
+--inst B02 --policy rh --step 60 --look 360 --terminal none --grid coarse --tl 600
+--inst B02 --policy rh --step 60 --look 60 --terminal boundary --bnd kms --grid coarse --tl 600
+--inst B02 --policy rh --step 60 --look 60 --terminal none --grid coarse --tl 300
+--inst B02 --policy rh --step 60 --look 60 --commit stage --terminal none --grid coarse --tl 300
+--inst B02 --policy rh --step 60 --look day --terminal boundary --bnd kms --grid coarse --tl 900
+--inst B02 --policy rh --step 60 --look day --terminal boundary --bnd kvms --grid coarse --tl 900
+--inst B03 --policy occ
+--inst B03 --policy rh --step 60 --look 180 --terminal boundary --bnd kms --grid coarse --tl 600
+--inst B03 --policy rh --step 60 --look 360 --terminal boundary --bnd kms --grid coarse --tl 600
+--inst B03 --policy rh --step 60 --look 360 --terminal boundary --bnd kvms --grid coarse --tl 600
+--inst B03 --policy rh --step 60 --look 360 --terminal none --grid coarse --tl 600
+--inst B03 --policy rh --step 60 --look 60 --terminal boundary --bnd kms --grid coarse --tl 600
+--inst B03 --policy rh --step 60 --look 60 --terminal none --grid coarse --tl 300
+--inst B03 --policy rh --step 60 --look 60 --commit stage --terminal none --grid coarse --tl 300
+--inst B03 --policy rh --step 60 --look day --terminal boundary --bnd kms --grid coarse --tl 900
+--inst B03 --policy rh --step 60 --look day --terminal boundary --bnd kvms --grid coarse --tl 900
+--inst B04 --policy occ
+--inst B04 --policy rh --step 60 --look 180 --terminal boundary --bnd kms --grid coarse --tl 600
+--inst B04 --policy rh --step 60 --look 360 --terminal boundary --bnd kms --grid coarse --tl 600
+--inst B04 --policy rh --step 60 --look 360 --terminal boundary --bnd kvms --grid coarse --tl 600
+--inst B04 --policy rh --step 60 --look 360 --terminal none --grid coarse --tl 600
+--inst B04 --policy rh --step 60 --look 60 --terminal boundary --bnd kms --grid coarse --tl 600
+--inst B04 --policy rh --step 60 --look 60 --terminal none --grid coarse --tl 300
+--inst B04 --policy rh --step 60 --look 60 --commit stage --terminal none --grid coarse --tl 300
+--inst B04 --policy rh --step 60 --look day --terminal boundary --bnd kms --grid coarse --tl 900
+--inst B04 --policy rh --step 60 --look day --terminal boundary --bnd kvms --grid coarse --tl 900
+--inst B05 --policy occ
+--inst B05 --policy rh --step 60 --look 180 --terminal boundary --bnd kms --grid coarse --tl 600
+--inst B05 --policy rh --step 60 --look 360 --terminal boundary --bnd kms --grid coarse --tl 600
+--inst B05 --policy rh --step 60 --look 360 --terminal boundary --bnd kvms --grid coarse --tl 600
+--inst B05 --policy rh --step 60 --look 360 --terminal none --grid coarse --tl 600
+--inst B05 --policy rh --step 60 --look 60 --terminal boundary --bnd kms --grid coarse --tl 600
+--inst B05 --policy rh --step 60 --look 60 --terminal none --grid coarse --tl 300
+--inst B05 --policy rh --step 60 --look 60 --commit stage --terminal none --grid coarse --tl 300
+--inst B06 --policy occ
+--inst B06 --policy rh --step 60 --look 180 --terminal boundary --bnd kms --grid coarse --tl 600
+--inst B06 --policy rh --step 60 --look 360 --terminal boundary --bnd kms --grid coarse --tl 600
+--inst B06 --policy rh --step 60 --look 360 --terminal boundary --bnd kvms --grid coarse --tl 600
+--inst B06 --policy rh --step 60 --look 360 --terminal none --grid coarse --tl 600
+--inst B06 --policy rh --step 60 --look 60 --terminal boundary --bnd kms --grid coarse --tl 600
+--inst B06 --policy rh --step 60 --look 60 --terminal none --grid coarse --tl 300
+--inst B06 --policy rh --step 60 --look 60 --commit stage --terminal none --grid coarse --tl 300
+--inst B06 --policy rh --step 60 --look day --terminal boundary --bnd kms --grid coarse --tl 900
+--inst B06 --policy rh --step 60 --look day --terminal boundary --bnd kvms --grid coarse --tl 900
+--inst B07 --policy occ
+--inst B07 --policy rh --step 60 --look 180 --terminal boundary --bnd kms --grid coarse --tl 600
+--inst B07 --policy rh --step 60 --look 360 --terminal boundary --bnd kms --grid coarse --tl 600
+--inst B07 --policy rh --step 60 --look 360 --terminal boundary --bnd kvms --grid coarse --tl 600
+--inst B07 --policy rh --step 60 --look 360 --terminal none --grid coarse --tl 600
+--inst B07 --policy rh --step 60 --look 60 --terminal boundary --bnd kms --grid coarse --tl 600
+--inst B07 --policy rh --step 60 --look 60 --terminal none --grid coarse --tl 300
+--inst B07 --policy rh --step 60 --look 60 --commit stage --terminal none --grid coarse --tl 300
+--inst B07 --policy rh --step 60 --look day --terminal boundary --bnd kms --grid coarse --tl 900
+--inst B08 --policy occ
+--inst B08 --policy rh --step 60 --look 180 --terminal boundary --bnd kms --grid coarse --tl 600
+--inst B08 --policy rh --step 60 --look 360 --terminal boundary --bnd kms --grid coarse --tl 600
+--inst B08 --policy rh --step 60 --look 360 --terminal boundary --bnd kvms --grid coarse --tl 600
+--inst B08 --policy rh --step 60 --look 360 --terminal none --grid coarse --tl 600
+--inst B08 --policy rh --step 60 --look 60 --terminal boundary --bnd kms --grid coarse --tl 600
+--inst B08 --policy rh --step 60 --look 60 --terminal none --grid coarse --tl 300
+--inst B08 --policy rh --step 60 --look 60 --commit stage --terminal none --grid coarse --tl 300
+--inst B08 --policy rh --step 60 --look day --terminal boundary --bnd kms --grid coarse --tl 900
+--inst B09 --policy occ
+--inst B09 --policy rh --step 60 --look 180 --terminal boundary --bnd kms --grid coarse --tl 600
+--inst B09 --policy rh --step 60 --look 360 --terminal boundary --bnd kms --grid coarse --tl 600
+--inst B09 --policy rh --step 60 --look 360 --terminal boundary --bnd kvms --grid coarse --tl 600
+--inst B09 --policy rh --step 60 --look 360 --terminal none --grid coarse --tl 600
+--inst B09 --policy rh --step 60 --look 60 --terminal boundary --bnd kms --grid coarse --tl 600
+--inst B09 --policy rh --step 60 --look 60 --terminal none --grid coarse --tl 300
+--inst B09 --policy rh --step 60 --look 60 --commit stage --terminal none --grid coarse --tl 300
+--inst B09 --policy rh --step 60 --look day --terminal boundary --bnd kms --grid coarse --tl 900
+--inst B10 --policy occ
+--inst B10 --policy rh --step 60 --look 180 --terminal boundary --bnd kms --grid coarse --tl 600
+--inst B10 --policy rh --step 60 --look 360 --terminal boundary --bnd kms --grid coarse --tl 600
+--inst B10 --policy rh --step 60 --look 360 --terminal none --grid coarse --tl 600
+--inst B10 --policy rh --step 60 --look 60 --terminal boundary --bnd kms --grid coarse --tl 600
+--inst B10 --policy rh --step 60 --look 60 --terminal none --grid coarse --tl 300
+--inst B10 --policy rh --step 60 --look 60 --commit stage --terminal none --grid coarse --tl 300
+--inst X01 --policy occ
+--inst X01 --policy rh --step 60 --look 180 --terminal boundary --bnd kms --grid coarse --tl 600
+--inst X01 --policy rh --step 60 --look 60 --terminal boundary --bnd kms --grid coarse --tl 600
+--inst X02 --policy occ
+--inst X02 --policy rh --step 60 --look 180 --terminal boundary --bnd kms --grid coarse --tl 600
+--inst X02 --policy rh --step 60 --look 60 --terminal boundary --bnd kms --grid coarse --tl 600
+--inst X03 --policy occ
+--inst X03 --policy rh --step 60 --look 180 --terminal boundary --bnd kms --grid coarse --tl 600
+--inst X03 --policy rh --step 60 --look 60 --terminal boundary --bnd kms --grid coarse --tl 600
+--inst X04 --policy occ
+--inst X04 --policy rh --step 60 --look 180 --terminal boundary --bnd kms --grid coarse --tl 600
+--inst X04 --policy rh --step 60 --look 60 --terminal boundary --bnd kms --grid coarse --tl 600
+--inst XB01 --policy occ
+--inst XB01 --policy rh --step 60 --look 180 --terminal boundary --bnd kms --grid coarse --tl 600
+--inst XB01 --policy rh --step 60 --look 360 --terminal boundary --bnd kms --grid coarse --tl 600
+--inst XB01 --policy rh --step 60 --look 360 --terminal none --grid coarse --tl 600
+--inst XB01 --policy rh --step 60 --look 60 --terminal boundary --bnd kms --grid coarse --tl 600
+--inst XB01 --policy rh --step 60 --look 60 --terminal none --grid coarse --tl 300
+--inst XB01 --policy rh --step 60 --look 60 --commit stage --terminal none --grid coarse --tl 300
+--inst XB01 --policy rh --step 60 --look day --terminal boundary --bnd kms --grid coarse --tl 900
+--inst XB02 --policy occ
+--inst XB02 --policy rh --step 60 --look 180 --terminal boundary --bnd kms --grid coarse --tl 600
+--inst XB02 --policy rh --step 60 --look 60 --terminal boundary --bnd kms --grid coarse --tl 600
+--inst XB02 --policy rh --step 60 --look 60 --terminal none --grid coarse --tl 300
+--inst XB02 --policy rh --step 60 --look 60 --commit stage --terminal none --grid coarse --tl 300
+--inst XB03 --policy occ
+--inst XB03 --policy rh --step 60 --look 180 --terminal boundary --bnd kms --grid coarse --tl 600
+--inst XB03 --policy rh --step 60 --look 360 --terminal boundary --bnd kms --grid coarse --tl 600
+--inst XB03 --policy rh --step 60 --look 360 --terminal none --grid coarse --tl 600
+--inst XB03 --policy rh --step 60 --look 60 --terminal boundary --bnd kms --grid coarse --tl 600
+--inst XB03 --policy rh --step 60 --look 60 --terminal none --grid coarse --tl 300
+--inst XB03 --policy rh --step 60 --look 60 --commit stage --terminal none --grid coarse --tl 300
+--inst XB04 --policy occ
+--inst XB04 --policy rh --step 60 --look 180 --terminal boundary --bnd kms --grid coarse --tl 600
+--inst XB04 --policy rh --step 60 --look 60 --terminal boundary --bnd kms --grid coarse --tl 600
+--inst XB04 --policy rh --step 60 --look 60 --terminal none --grid coarse --tl 300
+--inst XB04 --policy rh --step 60 --look 60 --commit stage --terminal none --grid coarse --tl 300

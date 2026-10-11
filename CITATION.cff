@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use this code or the results, please cite the accompanying article."
+title: "Rolling-horizon aircraft recovery under hourly airport slot quotas: code and results"
+type: software
+license: MIT
+version: "1.0.0"
+date-released: "2026-10-11"
+repository-code: "https://github.com/kiagram/aircraft-recovery-rolling-horizon"
+authors:
+  - family-names: Mousavinia
+    given-names: Seyed Shayan
+    affiliation: "Amirkabir University of Technology (Tehran Polytechnic)"
+  - family-names: Seyfi
+    given-names: Abbas
+    affiliation: "Amirkabir University of Technology (Tehran Polytechnic)"
+keywords:
+  - aircraft recovery
+  - rolling horizon
+  - airport slot capacity
+  - ROADEF 2009
+preferred-citation:
+  type: article
+  title: "Rolling-horizon aircraft recovery under hourly airport slot quotas: stage-boundary positioning targets and the price of myopia"
+  authors:
+    - family-names: Mousavinia
+      given-names: Seyed Shayan
+    - family-names: Seyfi
+      given-names: Abbas
+  status: submitted
+  year: 2026

@@ -1,0 +1,2 @@
+results_cg_v2 | --inst A01 --grid fine --tl 600 --mip-tl 300
+results_cg_v2 | --inst A02 --grid fine --tl 600 --mip-tl 300

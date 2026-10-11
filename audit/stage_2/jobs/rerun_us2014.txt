@@ -1,0 +1,70 @@
+--inst US02_A320_NQ --policy fh --lpm ipm --tl 1800
+--inst US02_A320 --policy fh --lpm ipm --tl 1800
+--inst US02_B737 --policy fh --grid coarse --lpm ipm --tl 1800
+--inst US02_CRJ200 --policy fh --grid coarse --lpm ipm --tl 1800
+--inst US02_CRJ700 --policy fh --lpm ipm --tl 1800
+--inst US03 --policy fh --lpm ipm --tl 1800
+--inst US08_A320 --policy fh --grid coarse --lpm ipm --tl 1800
+--inst US08_CRJ700 --policy fh --lpm ipm --tl 1800
+--inst US08_EMB120 --policy fh --lpm ipm --tl 1800
+--inst US02_A320_NQ --policy occ
+--inst US02_A320_NQ --policy rh --step 60 --look 180 --terminal boundary --bnd kms --tl 600
+--inst US02_A320_NQ --policy rh --step 60 --look 60 --terminal boundary --bnd kms --tl 300
+--inst US02_A320_NQ --policy rh --step 60 --look 60 --terminal none --tl 300
+--inst US02_A320_NQ --policy rh --step 60 --look 60 --commit stage --terminal none --tl 300
+--inst US02_A320 --policy occ
+--inst US02_A320 --policy rh --step 60 --look 180 --terminal boundary --bnd kms --tl 600
+--inst US02_A320 --policy rh --step 60 --look 360 --terminal boundary --bnd kms --tl 900
+--inst US02_A320 --policy rh --step 60 --look 60 --terminal boundary --bnd kms --tl 300
+--inst US02_A320 --policy rh --step 60 --look 60 --terminal none --tl 300
+--inst US02_A320 --policy rh --step 60 --look 60 --commit stage --terminal none --tl 300
+--inst US02_A320 --policy rh --step 60 --look day --terminal boundary --bnd kms --tl 900
+--inst US02_B737 --policy occ
+--inst US02_B737 --policy rh --step 60 --look 180 --terminal boundary --bnd kms --grid coarse --tl 600
+--inst US02_B737 --policy rh --step 60 --look 360 --terminal boundary --bnd kms --grid coarse --tl 900
+--inst US02_B737 --policy rh --step 60 --look 60 --terminal boundary --bnd kms --grid coarse --tl 300
+--inst US02_B737 --policy rh --step 60 --look 60 --terminal none --grid coarse --tl 300
+--inst US02_B737 --policy rh --step 60 --look 60 --commit stage --terminal none --grid coarse --tl 300
+--inst US02_B737 --policy rh --step 60 --look day --terminal boundary --bnd kms --grid coarse --tl 900
+--inst US02_CRJ200 --policy occ
+--inst US02_CRJ200 --policy rh --step 60 --look 180 --terminal boundary --bnd kms --grid coarse --tl 600
+--inst US02_CRJ200 --policy rh --step 60 --look 360 --terminal boundary --bnd kms --grid coarse --tl 900
+--inst US02_CRJ200 --policy rh --step 60 --look 60 --terminal boundary --bnd kms --grid coarse --tl 300
+--inst US02_CRJ200 --policy rh --step 60 --look 60 --terminal none --grid coarse --tl 300
+--inst US02_CRJ200 --policy rh --step 60 --look 60 --commit stage --terminal none --grid coarse --tl 300
+--inst US02_CRJ200 --policy rh --step 60 --look day --terminal boundary --bnd kms --grid coarse --tl 900
+--inst US02_CRJ700 --policy occ
+--inst US02_CRJ700 --policy rh --step 60 --look 180 --terminal boundary --bnd kms --tl 600
+--inst US02_CRJ700 --policy rh --step 60 --look 360 --terminal boundary --bnd kms --tl 900
+--inst US02_CRJ700 --policy rh --step 60 --look 60 --terminal boundary --bnd kms --tl 300
+--inst US02_CRJ700 --policy rh --step 60 --look 60 --terminal none --tl 300
+--inst US02_CRJ700 --policy rh --step 60 --look 60 --commit stage --terminal none --tl 300
+--inst US02_CRJ700 --policy rh --step 60 --look day --terminal boundary --bnd kms --tl 900
+--inst US03 --policy occ
+--inst US03 --policy rh --step 60 --look 180 --terminal boundary --bnd kms --tl 600
+--inst US03 --policy rh --step 60 --look 360 --terminal boundary --bnd kms --tl 900
+--inst US03 --policy rh --step 60 --look 60 --terminal boundary --bnd kms --tl 300
+--inst US03 --policy rh --step 60 --look 60 --terminal none --tl 300
+--inst US03 --policy rh --step 60 --look 60 --commit stage --terminal none --tl 300
+--inst US03 --policy rh --step 60 --look day --terminal boundary --bnd kms --tl 900
+--inst US08_A320 --policy occ
+--inst US08_A320 --policy rh --step 60 --look 180 --terminal boundary --bnd kms --grid coarse --tl 600
+--inst US08_A320 --policy rh --step 60 --look 360 --terminal boundary --bnd kms --grid coarse --tl 900
+--inst US08_A320 --policy rh --step 60 --look 60 --terminal boundary --bnd kms --grid coarse --tl 300
+--inst US08_A320 --policy rh --step 60 --look 60 --terminal none --grid coarse --tl 300
+--inst US08_A320 --policy rh --step 60 --look 60 --commit stage --terminal none --grid coarse --tl 300
+--inst US08_A320 --policy rh --step 60 --look day --terminal boundary --bnd kms --grid coarse --tl 900
+--inst US08_CRJ700 --policy occ
+--inst US08_CRJ700 --policy rh --step 60 --look 180 --terminal boundary --bnd kms --tl 600
+--inst US08_CRJ700 --policy rh --step 60 --look 360 --terminal boundary --bnd kms --tl 900
+--inst US08_CRJ700 --policy rh --step 60 --look 60 --terminal boundary --bnd kms --tl 300
+--inst US08_CRJ700 --policy rh --step 60 --look 60 --terminal none --tl 300
+--inst US08_CRJ700 --policy rh --step 60 --look 60 --commit stage --terminal none --tl 300
+--inst US08_CRJ700 --policy rh --step 60 --look day --terminal boundary --bnd kms --tl 900
+--inst US08_EMB120 --policy occ
+--inst US08_EMB120 --policy rh --step 60 --look 180 --terminal boundary --bnd kms --tl 600
+--inst US08_EMB120 --policy rh --step 60 --look 360 --terminal boundary --bnd kms --tl 900
+--inst US08_EMB120 --policy rh --step 60 --look 60 --terminal boundary --bnd kms --tl 300
+--inst US08_EMB120 --policy rh --step 60 --look 60 --terminal none --tl 300
+--inst US08_EMB120 --policy rh --step 60 --look 60 --commit stage --terminal none --tl 300
+--inst US08_EMB120 --policy rh --step 60 --look day --terminal boundary --bnd kms --tl 900
